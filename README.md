@@ -1,2 +1,2 @@
 # InMexico
-# Brick breaking game made with Java
+# Self adjusted brick breaking game 
